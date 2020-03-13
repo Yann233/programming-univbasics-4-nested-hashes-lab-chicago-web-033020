@@ -1,4 +1,4 @@
-
+#This method should return the value of the :grace_hopper key inside programmer_hash.
 def hopper
 	programmer_hash = 
  		{
